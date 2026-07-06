@@ -1,0 +1,1 @@
+Sistema para trabajar Programar con el metodo Pair Programming y escribir codigo y guardar sesiones<img width="1274" height="822" alt="Screenshot 2026-07-06 141033" src="https://github.com/user-attachments/assets/7754de3d-e44c-4258-85b4-ff3c77b56ca0" />
